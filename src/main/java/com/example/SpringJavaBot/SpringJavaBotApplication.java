@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringJavaBotApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringJavaBotApplication.class, args);
-	}
+		SpringApplication.run(SpringJavaBotApplication.class, args);	}
 
 }
